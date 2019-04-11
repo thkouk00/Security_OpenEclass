@@ -1,2 +1,9 @@
 
 - Δημιουργούμε έναν χρήστη τον διαγράφουμε και μετά ξανακάνουμε το ίδιο για να βρούμε το user_id	
+
+TODO list:
+
+search for CSRF / RFI
+search for SQL Injection
+findout GIATI DEN LEITOURGEI TO XSS opos thelw (thanos)
+alternative file extensions ex. jpg,png klp

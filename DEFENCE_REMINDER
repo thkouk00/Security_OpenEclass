@@ -19,22 +19,21 @@
       2.16)forum_admin ---------------  SQL Fix boreeeeed	
       2.17)group ---------------------  fix	     
       2.18)import --------------------  Group & Import SQL	
-      2.19)index ---------------------  First Commit	
-      2.20)lang ----------------------  wiki fix	
-      2.21)latexrender ---------------  First Commit	
-      2.22)learnPath -----------------  learnPath SQL Fixed	
-      2.23)link ----------------------  linkfunctions	
-      2.24)perso ---------------------  Fixed	
-      2.25)phpbb ---------------------  fuck you lef	
-      2.26)profile -------------------  csrf forms + 3 csrf fixes	
-      2.27)questionnaire -------------  poll	
-      2.28)search --------------------  Fixed
-      2.29)units ---------------------  Fixed units and unreguser	
-      2.30)unreguser -----------------  Fixed units and unreguser	
-      2.31)usage ---------------------  Usage Fixed Manos	
-      2.32)user ----------------------  user form
-      2.33)video ---------------------  video	
-      2.34)wiki ----------------------  wiki fix	
-      2.35)work ----------------------  rights fix	
+      2.19)lang ----------------------  wiki fix	
+      2.20)latexrender ---------------  First Commit	
+      2.21)learnPath -----------------  learnPath SQL Fixed	
+      2.22)link ----------------------  linkfunctions	
+      2.23)perso ---------------------  Fixed	
+      2.24)phpbb ---------------------  fuck you lef	
+      2.25)profile -------------------  csrf forms + 3 csrf fixes	
+      2.26)questionnaire -------------  poll	
+      2.27)search --------------------  Fixed
+      2.28)units ---------------------  Fixed units and unreguser	
+      2.29)unreguser -----------------  Fixed units and unreguser	
+      2.30)usage ---------------------  Usage Fixed Manos	
+      2.31)user ----------------------  user form
+      2.32)video ---------------------  video	
+      2.33)wiki ----------------------  wiki fix	
+      2.34)work ----------------------  rights fix	
     
 3) Na doume ta require_once/ include pou ginontai dunamika , na ta kanoume statika

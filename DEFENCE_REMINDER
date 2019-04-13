@@ -1,0 +1,40 @@
+1) Na kleisoume thn prosvash sto na mporei kapoios na vlepei tous fakelous( mallon apo edw .htaccess)
+2) Na kanoume fix ta arxeia twn fakelwn!
+
+      2.1)admin	----------------------  csrf should be done	
+      2.2)agenda ---------------------  agenda	
+      2.3)announcements --------------	Agenda & Announcements & auth SQL	
+      2.4)auth ----------------------- 	auth	
+      2.5)betacms_bridge -------------  justQuote	
+      2.6)conference -----------------	fix	
+      2.7)contact	Repaier ------------  SQL	
+      2.8)course_description ---------  Repaier SQL
+      2.9)course_home	Repaier --------  SQL	
+      2.10)course_info ---------------  rest csrf fixes for admin	
+      2.11)course_tools --------------  course_tools	
+      2.12)create_course -------------  fucking fix	
+      2.13)document	Document ---------  fixed	
+      2.14)dropbox -------------------  fix	
+      2.15)exercice ------------------  exercise	
+      2.16)forum_admin ---------------  SQL Fix boreeeeed	
+      2.17)group ---------------------	fix	     
+      2.18)import --------------------	Group & Import SQL	
+      2.19)index ---------------------	First Commit	
+      2.20)lang ----------------------	wiki fix	
+      2.21)latexrender ---------------	First Commit	
+      2.22)learnPath -----------------	learnPath SQL Fixed	
+      2.23)link ----------------------	linkfunctions	
+      2.24)perso ---------------------	Fixed	
+      2.25)phpbb ---------------------	fuck you lef	
+      2.26)profile -------------------	csrf forms + 3 csrf fixes	
+      2.27)questionnaire ------------- 	poll	
+      2.28)search --------------------  Fixed
+      2.29)units ---------------------	Fixed units and unreguser	
+      2.30)unreguser -----------------  Fixed units and unreguser	
+      2.31)usage ---------------------	Usage Fixed Manos	
+      2.32)user ----------------------	user form
+      2.33)video ---------------------	video	
+      2.34)wiki ----------------------	wiki fix	
+      2.35)work ----------------------	rights fix	
+    
+3) Na doume ta require_once/ include pou ginontai dunamika , na ta kanoume statika

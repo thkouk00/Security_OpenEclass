@@ -66,5 +66,5 @@ include/
       3) lib/forcedownload.php -> line: ****(87-91),     
       
  modules/            
-      1) agenda/agenda.php    -> line: 
-      2) agenda/myagenda.php  -> line: 
+      1) agenda/agenda.php    -> line: 107,141-184,158,192-196,210,218,220-221,263
+      2) agenda/myagenda.php  -> line: 49,91-92,146-148

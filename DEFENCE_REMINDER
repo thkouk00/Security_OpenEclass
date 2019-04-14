@@ -59,6 +59,8 @@
 
 
 ----------------------- ARXEIA POU EXW KANEI EDIT MEXRI STIGMHS ---------------------------------------
+cris:
+
 include/
       1) init.php             -> line:113-119
       2) lib/main.lib.php     -> line: *****(53-62), 211-267,275-277,291-293,305-307,
@@ -73,3 +75,17 @@ include/
                 2) myagenda.php  -> line: 49,91-92,146-148
          announcements/
                 1) announcements.php -> line: 127,156-157,175,211-212,217-219,225,233-235,240-242,380,466
+
+
+
+thanos:
+
+modules/
+      admin/
+      work/
+      wiki/
+      video/
+      user/
+      
+      
+tis grammes tha tis valw alli stigmi

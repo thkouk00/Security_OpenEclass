@@ -75,8 +75,11 @@ include/
                 2) myagenda.php  -> line: 49,91-92,146-148
          announcements/
                 1) announcements.php -> line: 127,156-157,175,211-212,217-219,225,233-235,240-242,380,466
-
-
+                2) myannouncements.php -> line 42,75
+         auth/
+                1) auth.inc.php -> line: 193,230-231,346-347,415
+                2) contactadmin.php -> line: 58,93-95
+                3) contactprof.php -> line: 36,37,41,79
 
 thanos:
 

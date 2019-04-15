@@ -122,6 +122,21 @@ include/
                   3) dropbox_inti1.inc.php     -> line:  102, 136,151,165-166, 196,198, 241,249       ****          
                   4) dropbox_submit.php        -> line: 88, 396,436-437
                   5) index.php                 -> line: 168-172,184,213
+        exercice/
+                  1) admin.php                 -> line:  198
+                  2) answer_admin.inc.class.php	     -> line: 
+                  3) answer.class.php          -> line: 112, 245, 257, 299-305
+                  4) csv.php                   -> line: 45,48,51,52,57
+                  5) exercice.php              -> line: 202, 261
+                  6) exercice_submit.php       -> line: 60,81,100-104
+                  7) exercise_admin.inc.php 
+                  8) exercise.class.php        -> line: 81,102,103,402-413,439,440,455,476,554
+                  9) exercise_result.php       -> line: 308,309,322-325
+                  
+                  10)question.class.php        -> line:  72,86,255,411,452,453,484,485,510,406-412,549-555
+                  11)question_admin.inc.php     -> line: 114,115,146
+                  12) question_poll.php         -> line: 89,129,150,167
+                  13) results.php               -> line: 84,89
 thanos:
 
 modules/

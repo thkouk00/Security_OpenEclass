@@ -71,7 +71,7 @@ include/
       
  modules/       
          agenda/
-                1) agenda.php    -> line: 107,141-184,158,192-196,210,218,220-221,263
+                1) agenda.php    -> line: 107,141-184,158,192-196,210,218,220-221,263            -> XSS STO EDIT STIS LEPTOMEREIES
                 2) myagenda.php  -> line: 49,91-92,146-148
          announcements/
                 1) announcements.php -> line: 127,156-157,175,211-212,217-219,225,233-235,240-242,380,466
@@ -90,6 +90,28 @@ include/
                 11) newprof.php -> line: 141-163,
                 12) newuserreq.php -> line: 54,109-119
                 13) opencourses.php -> line: 107-108
+         betacms_bridge/
+                        include/
+                                 1)bcms.inc.php -> line: 585,596-597,608,611,620,627,648-650,653
+         conference/
+                  1) messageList.php -> line: 116
+         contact/
+                  1) index.php   -> line: 38,97
+         course_description/
+                  1) edit.php -> line: 92,118,122
+         course_home/
+                  1) course_home.php -> line: 63-67,108,  115-121, 130-135
+         course_info/
+                  1) archieve_course.php  -> line: 45-46, 84-113,189,203,212,299,380,394
+                  2) delete_course.php     -> line: 36-39
+                  3) infocours.php         -> line: 90-122,157
+                  4) refresh_course.php    -> line: 131,138,147
+                  5) restore_course.php    -> line: 49-54,70-76,143,158,232-235,238,254-260,313,325-335,340-349,362,385-390,
+                                                      411-421,444-445,453-466,505-515,531
+                  
+                  
+                                   
+          
 
 thanos:
 

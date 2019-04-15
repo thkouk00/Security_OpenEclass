@@ -69,7 +69,7 @@ include/
                                        752-754,769-771,893-894
       3) lib/forcedownload.php -> line: ****(87-91),     
       
- modules/       
+  modules/       
          agenda/
                 1) agenda.php    -> line: 107,141-184,158,192-196,210,218,220-221,263            -> XSS STO EDIT STIS LEPTOMEREIES
                 2) myagenda.php  -> line: 49,91-92,146-148
@@ -108,8 +108,15 @@ include/
                   4) refresh_course.php    -> line: 131,138,147
                   5) restore_course.php    -> line: 49-54,70-76,143,158,232-235,238,254-260,313,325-335,340-349,362,385-390,
                                                       411-421,444-445,453-466,505-515,531
+         course_tools/                                                             
+                  1)course_tools.php      -> line: 132,146,149,206-218,225,235,246,258,299-352,308,394,396,434,484,513
+         create_course/
+                  1) create_course.php    -> line: 132,158-160,170-177,206,214-221,348,358-365,413-445,457
+               
                   
-                  
+    
+    
+    
                                    
           
 

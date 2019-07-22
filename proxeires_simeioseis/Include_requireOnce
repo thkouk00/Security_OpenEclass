@@ -1,0 +1,35 @@
+1) Search in directory for : include/
+
+require_once:
+	 -51 modules/admin/mysql/db_create.php
+	 -824 modules/admin/libraries/common.inc.php
+	 -78 modules/admin/libraries/database_interface.lib.php 
+	 -1195 modules/admin/libraries/display_tbl.lib.php
+	 -95 modules/admin/libraries/tcpdf/tcpdf.php    		******
+	 -57 modules/admin/mysql/setup/config.php
+	 -47 modules/wiki/lib/class.clarodbconnectiom.php ( and check below lines)
+	 
+include: 
+	-69 include/baseTheme.php
+	-247 - // -
+	-67 include/init.php
+	-116 -//-
+	-119 -//-
+	-123 -//-
+	-125 -//-
+	-247 -//-
+	-250 -//-
+	-254 -//-
+	-256 -//-
+	-310 -//-
+	-61,62,63,64,65,66 include/perso.php
+	-178,181,185,187 index.php
+	-67,73 install/install_functions.php
+	-719 modules/admin/mysql/libraries/common.inc.php
+	-36 modules/admin/musql/libraries/plugin_interface.lib.php
+	-77 modules/course_info/restore_course.php
+	-350,356,347 $modules/create_course/create_course.php
+	-88 modules/learnPath/navigation/showExercise.php
+	-58,61,65,67 upgrade/upgrade.php
+	
+	

